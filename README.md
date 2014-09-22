@@ -6,9 +6,13 @@ Phicologist Maria Perez Narciso's Website
  Using pluggins:
  
  jQuery FlexSlider v2.0
+ 
  jQuery PrettyPhoto
+ 
  jQuery Anchor Slider
+ 
  jQuery Easing v1.3 
+ 
  jQUery HTML5 Shiv
  
  Boostrap
