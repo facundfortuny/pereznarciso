@@ -9,7 +9,7 @@ Phicologist Maria Perez Narciso's Website
  
  - jQuery PrettyPhoto
  
- - jQuery Anchor Slider
+ - jQuery Anchor Slider 
  
  - jQuery Easing v1.3 
  
