@@ -5,17 +5,17 @@ Phicologist Maria Perez Narciso's Website
  
  Using pluggins:
  
- jQuery FlexSlider v2.0
+ - jQuery FlexSlider v2.0
  
- jQuery PrettyPhoto
+ - jQuery PrettyPhoto
  
- jQuery Anchor Slider
+ - jQuery Anchor Slider
  
- jQuery Easing v1.3 
+ - jQuery Easing v1.3 
  
- jQUery HTML5 Shiv
+ - jQuery HTML5 Shiv
  
- Boostrap
+ - Boostrap
  
- Font Awesome
+ - Font Awesome
  
